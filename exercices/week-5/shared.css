@@ -1,0 +1,26 @@
+html, body {
+    width: 100%;
+    height: 100%;
+    background-color: #EDF7FF;
+}
+.page {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    width: 400px;
+    height: 300px;
+}
+
+.container .title {
+    text-align: center;
+}
+
+.menu-vertical {
+    height: 100%;
+    width: 100%;
+}
